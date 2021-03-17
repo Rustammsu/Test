@@ -1,0 +1,29 @@
+{
+      "second": 123123,
+      "mainInfoData": {
+        "melt": "1231",
+        "grade": "1231",
+        "before": 1231,
+        "ao": 1231,
+        "targetValue": 1231,
+        "inMetal": 1321,
+        "vacuum": 1231
+      },
+      "graphArO2Data": {
+      "AR": {"value": 123, "sum": 2342},
+      "O2": {"value": 1231, "target_sum": 1231, "sum": 23423}
+    },
+    "graphEventsData": {
+        "AR": {"value": 1231, "timer": 234, "up": 4234, "show": 2342},
+        "O2": {"value": 1231, "target_sum": 23424,  "timer": 53453, "up": 345345, "show": 354534},
+    "END": {"timer": 53453, "show": 23424}
+      },
+      "graphWasteGasesData": {
+        "co":  4234,
+        "co2": 2342,
+        "h2" : 2342,
+        "n2" : 2342,
+        "ar" : 2342,
+        "o2" : 234
+      }
+    }
