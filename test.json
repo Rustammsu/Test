@@ -1,4 +1,5 @@
 {
+      "second_to_finish": 1201231,
       "second": 123123,
       "mainInfoData": {
         "melt": "1231",
@@ -8,13 +9,10 @@
         "targetValue": 1231,
         "inMetal": 1321,
         "vacuum": 1231
-      },
-      "graphArO2Data": {
-      "AR": {"value": 123, "sum": 2342},
-      "O2": {"value": 1231, "target_sum": 1231, "sum": 23423}
+      }
     },
     "graphEventsData": {
-        "AR": {"value": 1231, "timer": 234, "up": 4234, "show": 2342},
+        "AR": {"value": 1231, "target_sum": 2131, "timer": 234, "up": 4234, "show": 2342},
         "O2": {"value": 1231, "target_sum": 23424,  "timer": 53453, "up": 345345, "show": 354534},
     "END": {"timer": 53453, "show": 23424}
       },
