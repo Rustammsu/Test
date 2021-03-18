@@ -9,8 +9,7 @@
         "targetValue": 1231,
         "inMetal": 1321,
         "vacuum": 1231
-      }
-    },
+      },
     "graphEventsData": {
         "AR": {"value": 1231, "target_sum": 2131, "timer": 234, "up": 4234, "show": 2342},
         "O2": {"value": 1231, "target_sum": 23424,  "timer": 53453, "up": 345345, "show": 354534},
