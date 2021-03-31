@@ -1,29 +1,42 @@
 {
 	"second": 1800,
 	"mainInfoData": {
-		"secondToFinish": 1600,
 		"melt": "test-melt",
 		"grade": "test-grade",
 		"before": 1650,
 		"ao": 0.03,
 		"targetValue": 0.003,
 		"inMetal": 0.004,
-		"vacuum": 20
+		"vacuum": 20,
+		"end": {
+			"timer": 2000,
+			"show": true,
+			"label": "Завершите вакуумирование через",
+			"color": "#f5dfa5"
+		}
 	},
-	"graphEventsData": {
+	"graphArO2Data": {
 		"AR": {
 			"value": 150,
 			"valueSum": 1200,
-			"target": 200,
-			"timer": 180,
-			"up": true
+			"event": {
+				"target": 200,
+				"timer": 180,
+				"up": true,
+				"show": true
+			}
 		},
 		"O2": {
 			"value": 50,
 			"valueSum": 200,
-			"target": 40,
-			"timer": 180,
-			"up": false
+			"targetSum": 300,
+			"event": {
+				"target": 50,
+				"targetSum": 150,
+				"timer": 60,
+				"up": false,
+				"show": true
+			}
 		}
 	},
 	"graphWasteGasesData": {
