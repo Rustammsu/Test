@@ -3,7 +3,7 @@
 	"mainInfoData": {
 		"melt": "test-melt",
 		"grade": "test-grade",
-		"before": 1650,
+		"temperature": 1650,
 		"ao": 0.03,
 		"targetValue": 0.003,
 		"inMetal": 0.004,
